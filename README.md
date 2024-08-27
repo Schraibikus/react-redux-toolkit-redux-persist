@@ -1,4 +1,4 @@
-#Синхронизация Redux и localStorage с redux-persist
+# Синхронизация Redux и localStorage с redux-persist
 
 ## Available Scripts
 
